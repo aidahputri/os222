@@ -23,7 +23,7 @@ A brief interactive Vim (or vi) tutorial that teaches you the fundamental comman
 
 # WEEK 02
 ---
-1. [(Website) What Is a Checksum (and Why Should You Care)?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)<br>
+1. [(Website) What Is a Checksum (and Why Should You Care)?](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)<br/>
 
 Checksums are clearly explained on this page. It also explains the significance of checksums and how to calculate them.
 
