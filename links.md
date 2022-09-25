@@ -30,5 +30,15 @@ Checksums are clearly explained on this page. It also explains the significance 
 If you forget easily because you are not used to using Linux commands, this website is for you. This website presents a variety of commonly used Linux commands. 
 
 <hr>
+
+# WEEK 03
+---
+1. [How does a blockchain work](https://www.youtube.com/watch?v=SSo_EIwHSd4) <br>
+One of the most fascinating subjects to research in terms of security and protection is blockchain. This website has an excellent video that explains how blockchain technology functions and how secure it is.
+
+2. [File Allocation Methods](https://www.geeksforgeeks.org/file-allocation-methods/) <br>
+The file allocation method is explained in detail on this website. The explanation on this website is brief and straightforward, making it easier to comprehend the material for week 03.
+
+<hr>
 © 2022 --- Aidah Novallia Putri
 <hr>
