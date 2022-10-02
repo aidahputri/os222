@@ -40,5 +40,15 @@ One of the most fascinating subjects to research in terms of security and protec
 The file allocation method is explained in detail on this website. The explanation on this website is brief and straightforward, making it easier to comprehend the material for week 03.
 
 <hr>
+
+# WEEK 04
+---
+1. [Difference between Virtual and Physical Address](https://www.javatpoint.com/virtual-vs-physical-address)<br>
+This website is useful for people who are confused about the difference between logical and physical addresses. On this website, the differences and similarities between the two are explained in detail.
+
+2. [Endianness Explained With an Egg - Computerphile](https://www.youtube.com/watch?v=NcaiHcBvDR4) <br>
+This video is useful for those who are unsure about the differences between little and big endian. In this video, the differences and similarities between the two are explained in detail.
+
+<hr>
 © 2022 --- Aidah Novallia Putri
 <hr>
