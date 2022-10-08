@@ -22,3 +22,9 @@ ZCZC W03 20 L24 Scripting in General
 ZCZC W03 100 L99 Face-to-face lecture
 ZCZC W04 100 L02 ZOOM meetings related
 ZCZC W04 80 L09 Assignment in General
+ZCZC W05 15 L39 Start doing OS weekly assignment 05
+ZCZC W05 15 L40 testing how low can debian run at
+ZCZC W05 200 L41 Joining OS Class
+ZCZC W05 8 L42 doing OS Quiz
+ZCZC W05 20 L43 reviewing links
+ZCZC W05 40 L44 finishing up on OS weekly assignment 05
