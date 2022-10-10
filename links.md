@@ -50,5 +50,11 @@ This website is useful for people who are confused about the difference between 
 This video is useful for those who are unsure about the differences between little and big endian. In this video, the differences and similarities between the two are explained in detail.
 
 <hr>
+
+# WEEK 05
+---
+[C Programming Operators](https://www.programiz.com/c-programming/c-operators)<br>
+This website provides information on C operators including Arithmetic Operators, Increment and Decrement Operators, Assignment Operators, Relational Operators, Logical Operators, and others.
+<hr>
 © 2022 --- Aidah Novallia Putri
 <hr>
