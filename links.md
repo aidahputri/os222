@@ -55,6 +55,14 @@ This video is useful for those who are unsure about the differences between litt
 ---
 [C Programming Operators](https://www.programiz.com/c-programming/c-operators)<br>
 This website provides information on C operators including Arithmetic Operators, Increment and Decrement Operators, Assignment Operators, Relational Operators, Logical Operators, and others.
+
+<hr>
+
+# WEEK 06
+---
+[fork() in linux](https://www.youtube.com/watch?v=CaWgJIbwb-4)
+This video explains fork function in linux by using simple examples and code with outputs. So, this video is suitable for those of you who are just learning about fork().
+
 <hr>
 © 2022 --- Aidah Novallia Putri
 <hr>
