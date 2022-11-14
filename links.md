@@ -64,5 +64,13 @@ This website provides information on C operators including Arithmetic Operators,
 This video explains fork function in linux by using simple examples and code with outputs. So, this video is suitable for those of you who are just learning about fork().
 
 <hr>
+
+# WEEK 07
+---
+[Shared Memory](https://youtu.be/uHtzOFwgD74)
+This video explains about the system of shared memory. So, This video is suitable for those of you who are still confused about the concept of shared memory systems.
+
+
+<hr>
 © 2022 --- Aidah Novallia Putri
 <hr>
