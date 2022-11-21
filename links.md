@@ -70,6 +70,12 @@ This video explains fork function in linux by using simple examples and code wit
 [Shared Memory](https://youtu.be/uHtzOFwgD74)
 This video explains about the system of shared memory. So, This video is suitable for those of you who are still confused about the concept of shared memory systems.
 
+<hr>
+
+# WEEK 08
+---
+[LFS Mirror](https://mirrors.ustc.edu.cn/lfs/lfs-packages/11.2/)
+A mirror for the LFS I used to download some LFS packages.
 
 <hr>
 © 2022 --- Aidah Novallia Putri
