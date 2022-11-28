@@ -78,5 +78,14 @@ This video explains about the system of shared memory. So, This video is suitabl
 A mirror for the LFS I used to download some LFS packages.
 
 <hr>
+
+# WEEK 09
+---
+[https://www.softwaretestinghelp.com/mbr-vs-gpt/](https://www.softwaretestinghelp.com/mbr-vs-gpt/)
+This website provides useful information on the two partitioning methods.
+
+<hr>
+
+<hr>
 © 2022 --- Aidah Novallia Putri
 <hr>
