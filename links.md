@@ -86,6 +86,13 @@ This website provides useful information on the two partitioning methods.
 
 <hr>
 
+# WEEK 10
+---
+[Structures of Directory in Operating System](https://www.geeksforgeeks.org/structures-of-directory-in-operating-system/)
+The following link explains the directory structure on the Operating System.
+
+<hr>
+
 <hr>
 © 2022 --- Aidah Novallia Putri
 <hr>
